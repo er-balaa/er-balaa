@@ -1,4 +1,6 @@
-# Hi there, I'm Balamurugan G! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Balamurugan+G!+%F0%9F%91%8B;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</h1>
 
 ### 🎓 B.Tech in Artificial Intelligence and Data Science
 I am a Pre-final year student at **Kalaignarkarunanidhi Institute of Technology** with a strong foundation in Data Structures, Algorithms, and Full Stack Development. I love building scalable platforms and solving complex problems.
@@ -50,8 +52,9 @@ I am a Pre-final year student at **Kalaignarkarunanidhi Institute of Technology*
 
 ### ⚡ GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="Balamurugan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=er-balaa&show_icons=true&theme=radical" alt="Balamurugan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-balaa&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=er-balaa&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
