@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Balamurugan+G!+%F0%9F%91%8B;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4B4B&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Balamurugan+G!+%F0%9F%91%8B;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=er-balaa&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="er-balaa" /></a>
+</p>
 
 ### 🎓 B.Tech in Artificial Intelligence and Data Science
 I am a Pre-final year student at **Kalaignarkarunanidhi Institute of Technology** with a strong foundation in Data Structures, Algorithms, and Full Stack Development. I love building scalable platforms and solving complex problems.
@@ -9,17 +13,11 @@ I am a Pre-final year student at **Kalaignarkarunanidhi Institute of Technology*
 
 ### 🛠️ Tech Stack
 
-**Languages**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & Databases**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Cloud & Tools**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,react,html,css,bootstrap,nodejs,express,mysql,mongo,supabase,aws,git,f.aws&perline=7" />
+  </a>
+</p>
 
 ---
 
@@ -51,10 +49,21 @@ I am a Pre-final year student at **Kalaignarkarunanidhi Institute of Technology*
 ---
 
 ### ⚡ GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=er-balaa&show_icons=true&theme=radical" alt="Balamurugan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-balaa&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=er-balaa&theme=radical" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=er-balaa&show_icons=true&theme=dracula&hide_border=true" alt="Balamurugan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-balaa&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=er-balaa&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 🐍 Contribution Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/er-balaa/er-balaa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/er-balaa/er-balaa/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/er-balaa/er-balaa/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
