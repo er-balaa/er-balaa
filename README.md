@@ -3,10 +3,13 @@
 </h1>
 
 <p align="center">
+<<<<<<< HEAD
   <img src="https://komarev.com/ghpvc/?username=er-balaa&label=Profile%20Views&color=ff69b4&style=flat" alt="er-balaa" />
 </p>
 
 <p align="center">
+=======
+>>>>>>> 30cc35ac920da55a610aa878aaf6508eeed48c70
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=er-balaa&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="er-balaa" /></a>
 </p>
 
@@ -52,6 +55,7 @@ I am a Pre-final year student at **Kalaignarkarunanidhi Institute of Technology*
 
 ---
 
+<<<<<<< HEAD
 ### ⚡ GitHub Analytics
 
 <div align="center">
@@ -67,6 +71,16 @@ I am a Pre-final year student at **Kalaignarkarunanidhi Institute of Technology*
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=er-balaa&bg_color=20232a&color=ff4b4b&line=ff4b4b&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
+=======
+### ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=er-balaa&show_icons=true&theme=dracula&hide_border=true" alt="Balamurugan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-balaa&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=er-balaa&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+>>>>>>> 30cc35ac920da55a610aa878aaf6508eeed48c70
 
 ### 🐍 Contribution Graph
 <p align="center">
