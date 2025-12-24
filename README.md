@@ -19,31 +19,22 @@ I am a pre-final year B.Tech student in Artificial Intelligence and Data Science
 
 <h3 align="center" style="color:#FF0000;">Projects</h3>
 
-<table align="center">
-<tr>
-<td width="50%">
-
 > ### 🎓 EduHub
 > **Smart Online Classroom Platform**<br>
-> Refined digital classroom ecosystem with intelligent assignment validation and automated quiz grading.<br><br>
+> A comprehensive digital learning ecosystem designed to streamline educational workflows and enhance the virtual classroom experience. It features advanced class management tools, intelligent assignment validation, and an automated quiz grading system to significantly reduce administrative overhead. Built with a responsive React frontend and a robust Node.js/Express backend, it ensures seamless interaction and scalable data management via a cloud-based SQL database.<br><br>
 > **Stack:** React, Node.js, Express, SQL<br>
 > [**View Live Project**](https://eduhub-corp.onrender.com/)
 
-</td>
-<td width="50%">
+<br>
 
 > ### 👨‍🏫 Hello Tutor
 > **Intelligent Tutoring Platform**<br>
-> Unified participation, learning material distribution, real-time acknowledgement tracking.<br><br>
+> An advanced educational platform designed to unify resource distribution, learner participation, and accountability tracking in real-time. Tutors can efficiently share materials, track student acknowledgments instantly, and analyze engagement trends through a custom response-analysis system. This data-driven approach bridges the gap between instruction and understanding, powered by a high-performance React and SQL architecture.<br><br>
 > **Stack:** React, SQL<br>
 > [**View Live Project**](https://hello-tutor.netlify.app/)
 
-</td>
-</tr>
-</table>
-
 <p align="center">
-<b>Ongoing:</b> Business Workflow Automation Solution for Red Rupy Media
+<b>Ongoing:</b> Business Solution for Red Rupy Media
 </p>
 
 ---
