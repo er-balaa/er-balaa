@@ -11,8 +11,9 @@
 <h3 align="center" style="color:#FF0000;">About Me</h3>
 
 <p align="center">
-I am a pre-final year B.Tech student in Artificial Intelligence and Data Science with a CGPA of 8.1, passionate about building real-world software solutions that improve productivity and business efficiency. I actively work as an AI & DS student, web developer, designer, competitive programmer, cloud enthusiast, and DevOps learner, combining logic, creativity, and technology to create impactful digital products.
+I am a pre-final year B.Tech student in Artificial Intelligence and Data Science with a CGPA of 8.1, deeply passionate about building real-world software solutions that enhance productivity and drive business efficiency. I love converting complex ideas into simple, reliable, and user-friendly applications by applying strong analytical thinking, clean coding standards, and modern development practices. I continuously explore new technologies, improve system performance, and focus on designing scalable solutions that create measurable impact in real-life scenarios and professional environments.
 </p>
+
 
 ---
 
@@ -50,7 +51,7 @@ I am a pre-final year B.Tech student in Artificial Intelligence and Data Science
 <h3 align="center" style="color:#FF0000;">Technical Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,mongo,supabase,react,html,css,bootstrap,nodejs,express,postman,aws,git,github,vscode&perline=3" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,mongo,supabase,react,html,css,bootstrap,nodejs,express,postman,aws,git,github,vscode&perline=4" />
 </p>
 
 
