@@ -14,11 +14,7 @@ I enjoy building full-stack web applications and solving coding problems.
 
 ## 🛠️ Skills
 
-**Languages:** C++, Python, JavaScript  
-**Frontend:** HTML, CSS, Bootstrap, React  
-**Backend:** Node.js, Express  
-**Database:** MySQL, MongoDB, Supabase  
-**Tools:** Git, GitHub, AWS (Basics)
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,html,css,bootstrap,nodejs,express,mysql,mongo,supabase,aws,git&perline=7" />
