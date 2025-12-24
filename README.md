@@ -50,7 +50,9 @@ I am a pre-final year B.Tech student in Artificial Intelligence and Data Science
 <h3 align="center" style="color:#FF0000;">Technical Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=leetcode,cpp,python,mysql,mongo,supabase,nodejs,express,postman,react,bootstrap,html,css,aws,git,github,render,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,leetcode,mysql,mongo,supabase" /><br>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,nodejs,express,postman" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,render,vscode" />
 </p>
 
 
