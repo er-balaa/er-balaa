@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Hi,+I'm+G.+Balamurugan;AI+%26+Data+Science+Student;Web+Developer+%7C+Designer+%7C+DevOps+Learner;Turning+Ideas+Into+Real+World+Solutions" />
+  Hi, I'm <span style="color:#38BDF8;">G. Balamurugan</span>
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Web+Developer+%7C+Designer+%7C+DevOps+Learner;Turning+Ideas+Into+Real+World+Solutions" />
+</p>
 
 <hr style="border:1px solid #FF0000"/>
 
